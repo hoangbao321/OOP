@@ -1,12 +1,11 @@
 ﻿using System;
 
-namespace Cach_2
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+        //XL_CHUOI.kq();
+        XL_CHUOI_2.kq();
     }
 }
+

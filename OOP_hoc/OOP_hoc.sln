@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cach_3", "Cach_3\Cach_3.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cach_4", "Cach_4\Cach_4.csproj", "{7A81B597-31DE-4E83-8A9D-C4BE155F49F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTH", "NTH\NTH.csproj", "{EF157930-CA90-4746-A67A-98DFE534A6E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7A81B597-31DE-4E83-8A9D-C4BE155F49F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A81B597-31DE-4E83-8A9D-C4BE155F49F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A81B597-31DE-4E83-8A9D-C4BE155F49F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF157930-CA90-4746-A67A-98DFE534A6E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF157930-CA90-4746-A67A-98DFE534A6E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF157930-CA90-4746-A67A-98DFE534A6E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF157930-CA90-4746-A67A-98DFE534A6E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
